@@ -1,38 +1,38 @@
-# ¿PORQUE LA SERIE DE BERSEK ES UNA TOTAL LOCURA?
+# LA FRASE MAS ICONICA DE RODRIGO!!
 
-## COMIENZO
+## ATESTIGUAME BOLSA DE SANGRE!!
 
-###### LA HISTORIA DE GUST COMIENZA CON UN NIÑO DAÑADO POR SU FAMILIA  CON UNA EXTREMA POBREZA QUE LO OBLIGÓ A IR ALAS GUERRAS TERMINADAS CON TAL DE CONSEGUIR COMIDA Y LUCHAR POR LA MISMA COMIDA 
+# CREE EN TI
+## AUNQUE TE DIGAN LOCO
+###### SOLO ASEGURATE DE QUE SEA LO CORRECTO
 
-## Emphasi
+## Emphasis
 
-*GUST SIEMPRE HA SIDO UN GUERRERO EN BUSCA DE LA  JUSTICIA *
+*PORQUE SE SIENTE RARO ESTAR SOLO AUNQUE TENGAS AMIGOS*
+_AUNQUE SE SIENTA RARO O ALGO ASI, LLEGAS A UN PUNTO DONDE NO QUIERES HABLAR CON NADIE_
 
+**PERO TAMBIEN QUIERES QUE TE HABLEN Y QUE TE  PREGUNTEN COMO ESTAS **
+_O SOLO QUIERES QUE TE RESCATEN PERO NO SABES COMO_
+**ALA VEZ LA SOLEDAD ES BUENA PERO  YA NO SABES QUE SENTIR CUANDO YA NO ESTABAS ACOSTUMBRADO A ELLA**
 
-_SIEMPRE HA AMADO A CASCA _
+## COSAS QUE QUISIERA TENER
 
-*Griffith*
-__TRAICIONÓ A GUST SIENDO SU MEJOR AMIGO_
-_You **can** combine them_
+### COSAS PERSONALES 
 
-## Lists
+*  UNA MOTO
+*  UNA CASA
+*  UN CARRO
+* IUNA FAMILIA
+    *  1 HIJO VARÓN
+    *  Y QUE MI ESPOSA SEA BLANQUITA
 
-### Unordered
+### COSAS MALLILLAS DE MI 
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
+1. EGO
+2. IGRESIVO
+3.  MUY DIRECTO
+    1. MUY LOCO
+    2. AVECES HAGO LAS COSAS SABIENDO QUE SON  MALAS ACCIONES
 
 ## Images
 
@@ -40,37 +40,23 @@ _You **can** combine them_
 
 ## Links
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+TEMU REY  Preview](https://markdownlihttps://www.temu.com/bgn_verification.html?verifyCode=arK9OFgSZjWpdOp4u-lmdg78135c2c13e962fce&from=https%3A%2F%2Fwww.temu.com%2Fmx&refer_page_name=home&refer_page_id=10005_1780635036367_u58fcrz9su&refer_page_sn=10005&_x_sessn_id=47hjfxpj30
+## PORQUE DEBES DE VER BERSERK
 
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+> ES UN ANIME QUE NO SOLAMENTE TE DÁ FELICIDAD POR SUS ANIMACIONES SINO TAMBIEN, TRISTEZA. ENOJO, FURIA , DECEPCION Y LO PEOR QUE TU MEJOR AMIGO TE PUEDE HACER UNA TRAICION
 >
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
+>> AQUI LA PREGUNTA ES, QUE LE DIJIERAS O HARÍAS A TU MEJOR AMIGO SI TE TRAICIONA O MAS BIEN SEGUN EL ANIME QUE TU MEJOR AMIGO SE BESE A TU NOVIA  ENFRENTE DE TI , Y QUE NO PUEDAS HACER NADA Y TU NOVIA NO QUIERE ESTA SIENDO FORZADA 
 ## Tables
 
-| Left columns  | Right columns |
+| TRABAJAR | EMPRENDER
 | ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+| left foo      | PROPIO JEFE
+| left bar      | PERDIDAS
+| left baz      | GANANCIAS
 
 ## Blocks of code
 
 ```
-let message = 'Hello world';
+let message = 'HOLA MIS AMIGOS DEL COLEGIO';
 alert(message);
 ```
-
-## Mermaid diagrams
-```mermaid
-graph TD
-  A[Start] --> B{Decision}
-  B -->|Yes| C[Finish]
-  B -->|No| D[Alternate]
-```
-
-## Inline code
-
-This web site is using `markedjs/marked`.
